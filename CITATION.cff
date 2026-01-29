@@ -1,9 +1,10 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Jianu
-  given-names: Ovidiu
-orcid: https://orcid.org/0000-0002-0699-6553
-title:
-version: v1.0.20260129
+- family-names: "Jianu"
+  given-names: "Ovidiu"
+  orcid: "https://orcid.org/0000-0002-0699-6553"
+title: "3D Earthquake Visualization for Vrancea"
+version: 1.0.20260129
 date-released: 2026-01-29
+url: "https://github.com/jianuovidiu/nfo-seismic-3d"
