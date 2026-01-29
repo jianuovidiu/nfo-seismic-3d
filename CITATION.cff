@@ -16,7 +16,7 @@ authors:
 - family-names: "Chiaraluce"
   given-names: "Lauro"
   orcid: "https://orcid.org/0000-0002-9697-6504"
-title: "3D Earthquake Visualization for Vrancea"
+title: "3D Visualization of NFO seismicity"
 version: 1.0.1
 date-released: 2026-01-29
 url: "https://github.com/jianuovidiu/nfo-seismic-3d"
